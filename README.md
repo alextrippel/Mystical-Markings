@@ -1,2 +1,14 @@
-# Mystical-Markings
-Storage location for my first created game, a 2d rpg
+#Project Name
+Context and date
+
+Description
+
+## Implementation
+Which features you included
+
+## References
+
+## Future Development
+
+## Created by
+Alexander Trippel
